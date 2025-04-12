@@ -1,16 +1,13 @@
-## Hi there 👋
+--------------------------------------------------------------------------
 
-<!--
-**hammayo/hammayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hammy Babar 👋
 
-Here are some ideas to get you started:
+### I’m a software craftsman with a passion for keeping things simple, tidy and clean.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hammayo%20Babar-blue?style=flat&logo=linkedin)](https://uk.linkedin.com/in/hammayo)
+
+- 💬 Feel free to chat with me about **clean code, solid principles or software architecture**
+- 📝 I occasionally write about coding insights on [hammayo.co.uk](https://hammayo.co.uk/)
+- 📫 You can get in touch via **hammy@hammayo.co.uk**
+
+--------------------------------------------------------------------------
